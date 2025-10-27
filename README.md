@@ -13,7 +13,8 @@ Bienvenue sur mon portfolio professionnel.
 ## 📁 Projets
 - Migration ERP chez Santa Lucia
 - Digitalisation des processus RH
-- Script TechShop (Python + MySQL)
+- Script LiliShop (Python + MySQL)
+- Script mini_erp (Python + MySQL)
 
 ## 📫 Contact
 - Email : gagoumrachelle48@gmail.com
