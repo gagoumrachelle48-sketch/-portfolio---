@@ -9,6 +9,11 @@ Bienvenue sur mon portfolio professionnel.
 ## 🛠️ Compétences
 - Python, SQL, Odoo, Oracle, Sage
 - Gestion de projet, audit SI, ERP, digitalisation
+-  Transformation digitale 
+-   Audit & Gouvernance SI
+-    Sécurité des systèmes 
+-    Optimisation des processus 
+-    Conduite du changement
 
 ## 📁 Projets
 - Migration ERP chez Santa Lucia
